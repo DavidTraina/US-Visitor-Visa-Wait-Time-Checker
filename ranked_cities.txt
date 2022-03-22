@@ -1,0 +1,236 @@
+Dili: 1 days
+Kolonia: 1 days
+Maputo: 1 days
+Port Moresby: 1 days
+Riga: 1 days
+Taipei: 1 days
+Guangzhou: 2 days
+Osaka-Kobe: 2 days
+Port Louis: 2 days
+Beijing: 3 days
+Bujumbura: 3 days
+Naples: 3 days
+Shanghai: 3 days
+Shenyang: 3 days
+Suva: 3 days
+Tokyo: 3 days
+Yaounde: 3 days
+Kuwait: 4 days
+Naha: 4 days
+N`Djamena: 5 days
+Asmara: 7 days
+Bandar Seri Begawan: 7 days
+Usun-New York: 7 days
+Vientiane: 7 days
+Kuala Lumpur: 8 days
+Luanda: 8 days
+Vilnius: 9 days
+Muscat: 11 days
+Curacao: 15 days
+Sapporo: 15 days
+Lusaka: 16 days
+Antananarivo: 21 days
+Phnom Penh: 21 days
+Kathmandu: 24 days
+Dushanbe: 28 days
+Madrid: 28 days
+Mbabane: 28 days
+Gaborone: 30 days
+Malabo: 30 days
+Tallinn: 30 days
+Lilongwe: 32 days
+Skopje: 32 days
+Windhoek: 32 days
+Florence: 42 days
+Manama: 42 days
+Podgorica: 42 days
+Surabaya: 42 days
+Singapore: 43 days
+Freetown: 49 days
+Jakarta: 50 days
+Belmopan: 51 days
+Sarajevo: 55 days
+Seoul: 56 days
+Johannesburg: 60 days
+Paramaribo: 60 days
+Reykjavik: 60 days
+Sofia: 60 days
+Cotonou: 64 days
+Bamako: 65 days
+La Paz: 70 days
+Tashkent: 70 days
+Libreville: 74 days
+Bern: 78 days
+Dar Es Salaam: 78 days
+Bishkek: 79 days
+Algiers: 80 days
+Lome: 80 days
+Nassau: 83 days
+Kigali: 88 days
+Brazzaville: 90 days
+Ljubljana: 90 days
+Luxembourg: 90 days
+Niamey: 90 days
+Ouagadougou: 90 days
+Tunis: 90 days
+Nur-Sultan: 91 days
+Colombo: 100 days
+Krakow: 100 days
+Perth: 100 days
+Cape Town: 104 days
+Dubai: 104 days
+Conakry: 105 days
+Copenhagen: 107 days
+Doha: 107 days
+Harare: 107 days
+Frankfurt: 108 days
+Casablanca: 113 days
+Erbil: 119 days
+Bangkok: 120 days
+Banjul: 120 days
+Chennai ( Madras): 120 days
+Hamilton: 120 days
+Lisbon: 120 days
+Milan: 120 days
+Nouakchott: 120 days
+Rome: 120 days
+Berlin: 121 days
+Jerusalem: 130 days
+Nicosia: 130 days
+Riyadh: 135 days
+Helsinki: 138 days
+Valletta: 140 days
+Warsaw: 140 days
+Dublin: 141 days
+Managua: 141 days
+Recife: 143 days
+Porto Alegre: 154 days
+Chiang Mai: 155 days
+Pristina: 155 days
+Munich: 164 days
+Vienna: 170 days
+Oslo: 171 days
+Bucharest: 172 days
+Port Of Spain: 172 days
+Jeddah: 175 days
+Calgary: 177 days
+Dhaka: 177 days
+Zagreb: 177 days
+Dhahran: 178 days
+Rio De Janeiro: 178 days
+Belgrade: 180 days
+Brussels: 180 days
+Durban: 180 days
+Belfast: 190 days
+London: 190 days
+Almaty: 193 days
+Djibouti: 200 days
+Asuncion: 202 days
+Dakar: 210 days
+Paris: 217 days
+Istanbul: 234 days
+Brasilia: 238 days
+Abu Dhabi: 240 days
+Amsterdam: 240 days
+Prague: 240 days
+Hyderabad: 241 days
+Ulaanbaatar: 251 days
+Tel Aviv: 262 days
+Tirana: 265 days
+Sao Paulo: 284 days
+Kampala: 289 days
+Montevideo: 290 days
+New Delhi: 292 days
+Melbourne: 300 days
+Sydney: 300 days
+Beirut: 310 days
+San Salvador: 311 days
+Abidjan: 317 days
+Toronto: 320 days
+Kolkata: 337 days
+Ho Chi Minh City: 347 days
+Manila: 347 days
+Chisinau: 350 days
+Karachi: 352 days
+Ottawa: 360 days
+Baku: 365 days
+Monrovia: 365 days
+Port Au Prince: 365 days
+Lima: 380 days
+Stockholm: 402 days
+Cairo: 420 days
+Vancouver: 421 days
+Islamabad: 435 days
+Kinshasa: 448 days
+Halifax: 450 days
+Quebec: 450 days
+Hermosillo: 453 days
+Tijuana: 476 days
+Tijuana Tpf: 476 days
+Panama City: 482 days
+Bridgetown: 483 days
+Quito: 485 days
+Praia: 487 days
+Buenos Aires: 494 days
+San Jose: 500 days
+Nairobi: 527 days
+Matamoros: 528 days
+Mexico City: 536 days
+Monterrey: 539 days
+Addis Ababa: 561 days
+Merida: 576 days
+Georgetown: 605 days
+Guayaquil: 611 days
+Nogales: 637 days
+Accra: 654 days
+Yerevan: 672 days
+Kingston: 677 days
+Tbilisi: 694 days
+Santiago: 700 days
+Bogota: 703 days
+Ciudad Juarez: 704 days
+Guadalajara: 708 days
+Amman: 721 days
+Santo Domingo: 750 days
+Lagos: 824 days
+Tegucigalpa: 833 days
+Abuja: 850 days
+Mumbai (Bombay): 940 days
+Athens: 999 days
+Guatemala City: 999 days
+Nuevo Laredo: 999 days
+Adana: 1000 days
+Ankara: 1000 days
+Apia: 1000 days
+Ashgabat: 1000 days
+Auckland: 1000 days
+Baghdad: 1000 days
+Barcelona: 1000 days
+Bratislava: 1000 days
+Budapest: 1000 days
+Caracas: 1000 days
+Chengdu: 1000 days
+Damascus: 1000 days
+Hanoi: 1000 days
+Havana: 1000 days
+Hong Kong: 1000 days
+Juba: 1000 days
+Kabul: 1000 days
+Kaohsiung: 1000 days
+Khartoum: 1000 days
+Koror: 1000 days
+Kyiv: 1000 days
+Lahore: 1000 days
+Majuro: 1000 days
+Marseille: 1000 days
+Maseru: 1000 days
+Minsk: 1000 days
+Montreal: 1000 days
+Moscow: 1000 days
+Rangoon: 1000 days
+Sanaa: 1000 days
+St Georges: 1000 days
+St Petersburg: 1000 days
+Tripoli: 1000 days
+Vladivostok: 1000 days
+Yekaterinburg: 1000 days
